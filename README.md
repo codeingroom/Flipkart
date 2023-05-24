@@ -1,1 +1,11 @@
-# Flipkart
+# Flipkart Clone
+![1](https://github.com/codeingroom/Flipkart/assets/57828021/03910eda-368c-41d9-aef8-b4f9b7d25570)
+![2](https://github.com/codeingroom/Flipkart/assets/57828021/0aa850e0-5e03-40ff-9414-c33e587c4ae5)
+![3](https://github.com/codeingroom/Flipkart/assets/57828021/bc9d6e64-a8fb-4a58-81ca-918b9fbaa2e6)
+![4](https://github.com/codeingroom/Flipkart/assets/57828021/c4d3c753-0c10-4574-af02-d9e37947ed1c)
+![5](https://github.com/codeingroom/Flipkart/assets/57828021/3443787c-0c40-4707-8e5c-4bebae8379e1)
+![6](https://github.com/codeingroom/Flipkart/assets/57828021/0326ab9b-1466-4d6e-97c8-97471c26948b)
+![7](https://github.com/codeingroom/Flipkart/assets/57828021/eea4c663-7166-4d7f-9c2b-cc9f1d0fa241)
+![8](https://github.com/codeingroom/Flipkart/assets/57828021/cdb85281-6996-421e-9b9d-976b872d4b5d)
+![9](https://github.com/codeingroom/Flipkart/assets/57828021/04a929a0-9ecc-45f8-a074-494000406eb9)
+![10](https://github.com/codeingroom/Flipkart/assets/57828021/1f0669d4-4e00-4911-a49b-5a79e14358c3)
